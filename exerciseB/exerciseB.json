@@ -1,0 +1,18 @@
+{
+  "teacher": {
+    "firstName": "Ryan",
+    "lastName" : "Snell",
+    "age" : "41",
+    "subjectsTaught" : ["Math", "Social Studies", "English"]
+  },
+  "info":
+    {"address":
+      {
+        "Street": "4788 Key Biscayne Dr",
+        "city": "Tampa",
+        "state": "FL",
+        "zipCode": "33614"
+      }
+    },
+  "private": true
+}
