@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 // Connect to MongoDB
-const DB_NAME="ryandb"
+const DB_NAME="school"
 mongoose.connect(`mongodb://localhost:27017/${DB_NAME}`, {
     //useNewUrlParser: true,
     //useUnifiedTopology: true
